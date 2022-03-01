@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewContro   ller: UIViewController {
+class ViewController: UIViewController {
     
     
 
